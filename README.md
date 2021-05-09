@@ -11,3 +11,7 @@ following columns are not being used at all:
 - Ticket - type of ticket
 - Cabin 
 
+Current performance on test set data is:
+- accuracy - ~85%
+- loss - 6.2%
+
