@@ -18,3 +18,7 @@ Current performance on test set data is:
 - Accuracy - ~85%
 - Loss - 6.2%
 
+train + test performance is:
+- Accuracy - 80%
+- Loss - 11%
+
