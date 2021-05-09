@@ -7,11 +7,11 @@ The used model imports data and corrects following columns values:
 - AGE - median is being used for missing values
 - EMBARKED - missing values are replaced with most freqenltly missing category
 following columns are not being used at all:
-- Passenger Id - does not provide any value
-- Ticket - type of ticket
-- Cabin 
+- PASSENGER ID - does not provide any value
+- TICKET - type of ticket
+- CABIN - the type of cabin allocated
 
 Current performance on test set data is:
-- accuracy - ~85%
-- loss - 6.2%
+- Accuracy - ~85%
+- Loss - 6.2%
 
